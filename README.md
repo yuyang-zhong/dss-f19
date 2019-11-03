@@ -1,2 +1,9 @@
-# DSS-Sp19-ML
-Repo to find slides and notebook to lecture demo 
+# dss-f19 #
+Data Science Society at Berkeley
+
+*Fall 2019*
+
+##
+Contents for public workshops hosted by the Academic Development Committee.
+
+Work licensed under Creative Commons BY-NC-SA 4.0.
