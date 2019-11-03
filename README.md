@@ -6,6 +6,6 @@ Data Science Society at Berkeley
 ##
 Contents for public workshops hosted by the Academic Development Committee.
 
-/gm-ml content forked from alanscha/DSS-Sp19-ML, content created by Alan Cha and Zachary Chao in Spring 2019.
+`/gm-ml` content forked from alanscha/DSS-Sp19-ML, content created by Alan Cha and Zachary Chao in Spring 2019.
 
 Work licensed under Creative Commons BY-NC-SA 4.0.
